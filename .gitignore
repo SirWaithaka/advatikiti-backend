@@ -1,0 +1,5 @@
+# python
+*.pyc
+
+# editor files and dirs
+.vscode/
